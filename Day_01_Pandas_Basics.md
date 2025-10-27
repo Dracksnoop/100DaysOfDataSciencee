@@ -62,7 +62,7 @@ What fascinated me most today was how **Pandas simplifies complex data operation
 
 Tomorrow, I'll be exploring **NumPy Basics** to understand the foundation of numerical computing in Python.
 
-👉 [Day 02: NumPy Basics](../Day-02/README.md)
+👉 [Day 02: NumPy Basics](https://github.com/Dracksnoop/100DaysOfDataSciencee/blob/main/Day%2002%3A%20Basics%20of%20NumPy.md)
 
 ---
 
