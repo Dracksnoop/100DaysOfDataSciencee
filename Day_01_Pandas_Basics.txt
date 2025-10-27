@@ -1,0 +1,2 @@
+Day 01 — Pandas Basics
+Practiced DataFrame creation and simple operations.
