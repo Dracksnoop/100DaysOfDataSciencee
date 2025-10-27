@@ -83,4 +83,4 @@ Tomorrow, I'll dive into **Data Cleaning with Pandas** to learn how to handle mi
 
 > 💡 Part of my 100 Days of Data Science learning journey.
 
-> 📂 [← Day 01: Basics of Pandas](../Day-01/README.md)
+> 📂 [← Day 01: Basics of Pandas](https://github.com/Dracksnoop/100DaysOfDataSciencee/blob/main/Day_01_Pandas_Basics.md)
