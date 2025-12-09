@@ -19,7 +19,7 @@ Each day, I commit to:
 
 ---
 
-## 🎯 Goals for 100 Days
+## 🎯 Goals for 100 Day
 
 ✅ Master **Python for Data Science**  
 ✅ Deep dive into **Pandas, NumPy, and Matplotlib**  
